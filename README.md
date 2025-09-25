@@ -10,7 +10,7 @@
 
 <h3 align="left">📌 Table of Contents</h3>
 <ol align="left">
-    
+    <li>Basics – Getting Started with Spring AI</li>
 </ol>
 
 <hr>
@@ -18,7 +18,7 @@
 <h3 align="left">⚙️ Prerequisites</h3>
 <p align="justify">
     These demos have been built using <b>JDK 21</b>, <b>Spring Framework 6</b>, and <b>Spring Boot 3</b>. While it is
-    recommended to have JDK 21 installed, the examples can be adapted to other Java versions with minimal modifications.
+    recommended to have JDK 25 installed, the examples can be adapted to other Java versions with minimal modifications.
 </p>
 <p align="justify">
     Before diving into Spring REST, ensure you're comfortable with the following concepts:
