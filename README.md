@@ -10,7 +10,15 @@
 
 <h3 align="left">📌 Table of Contents</h3>
 <ol align="left">
-    <li>Basics – Getting Started with Spring AI</li>
+	<li>AI to Spring AI</li>
+    <li>Basics - Getting Started with Spring AI</li>
+	<li>Prompt Engineering</li>
+	<li>Advisors Explained - Comparing with AOP</li>
+	<li>Context & Memory with MessageChatMemoryAdvisor</li>
+	<li>RAG with PDF - Retrieval Augmented Generation</li>
+	<li>Multimodal - AI Image Description</li>
+	<li>Tools - Using @Tools in Spring AI</li>
+	<li>MCP - Server & Client Integration</li>
 </ol>
 
 <hr>
