@@ -1,0 +1,37 @@
+{
+	"info": {
+		"_postman_id": "26221a28-d571-4461-8c3a-cba0b4b96dbf",
+		"name": "Demo4",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "4662588",
+		"_collection_link": "https://youtube-8739.postman.co/workspace/Spring-AI~b7dd810f-59ff-41f8-94e9-794eb667b7bc/collection/4662588-26221a28-d571-4461-8c3a-cba0b4b96dbf?action=share&source=collection_link&creator=4662588"
+	},
+	"item": [
+		{
+			"name": "/generate",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/ai/generate?userPrompt=What is my name",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"ai",
+						"generate"
+					],
+					"query": [
+						{
+							"key": "userPrompt",
+							"value": "What is my name"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

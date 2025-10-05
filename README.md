@@ -14,7 +14,7 @@
     <li>Basics - Getting Started with Spring AI</li>
 	<li>Prompt Engineering</li>
 	<li>Advisors</li>
-	<li>Context & Memory with MessageChatMemoryAdvisor</li>
+	<li>Enable Memory with MessageChatMemoryAdvisor</li>
 	<li>RAG with PDF - Retrieval Augmented Generation</li>
 	<li>Multimodal - AI Image Description</li>
 	<li>Tools - Using @Tools in Spring AI</li>
