@@ -1,0 +1,37 @@
+{
+	"info": {
+		"_postman_id": "c32ee00e-487d-46f9-94a1-586d48ab044f",
+		"name": "Demo5",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "4662588",
+		"_collection_link": "https://youtube-8739.postman.co/workspace/Spring-AI~b7dd810f-59ff-41f8-94e9-794eb667b7bc/collection/4662588-c32ee00e-487d-46f9-94a1-586d48ab044f?action=share&source=collection_link&creator=4662588"
+	},
+	"item": [
+		{
+			"name": "/generate",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/ai/generate?userPrompt=is java dead language",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"ai",
+						"generate"
+					],
+					"query": [
+						{
+							"key": "userPrompt",
+							"value": "is java dead language"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
