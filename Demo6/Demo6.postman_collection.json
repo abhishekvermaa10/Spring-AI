@@ -1,0 +1,128 @@
+{
+	"info": {
+		"_postman_id": "5f269435-2287-4e15-bf78-54e0ad87c12f",
+		"name": "Demo6",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "4662588",
+		"_collection_link": "https://youtube-8739.postman.co/workspace/Spring-AI~b7dd810f-59ff-41f8-94e9-794eb667b7bc/collection/4662588-5f269435-2287-4e15-bf78-54e0ad87c12f?action=share&source=collection_link&creator=4662588"
+	},
+	"item": [
+		{
+			"name": "/generate",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/ai/generate?userPrompt=Who is king of fruits",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"ai",
+						"generate"
+					],
+					"query": [
+						{
+							"key": "userPrompt",
+							"value": "Who is king of fruits"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "/generateDescription",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": []
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost:8080/ai/generateDescription?userPrompt=decsribe",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"ai",
+						"generateDescription"
+					],
+					"query": [
+						{
+							"key": "userPrompt",
+							"value": "decsribe"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "/generateOpenAiImage",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/ai/generateOpenAiImage?userPrompt=Basket full of fruits",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"ai",
+						"generateOpenAiImage"
+					],
+					"query": [
+						{
+							"key": "userPrompt",
+							"value": "Basket full of fruits"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "/generateStabilityAiImage",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/ai/generateStabilityAiImage?userPrompt=Basket full of fruits",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"ai",
+						"generateStabilityAiImage"
+					],
+					"query": [
+						{
+							"key": "userPrompt",
+							"value": "Basket full of fruits"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
