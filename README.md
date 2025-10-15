@@ -17,8 +17,7 @@
 	<li>Enable Memory with MessageChatMemoryAdvisor</li>
 	<li>Retrieval Augmented Generation</li>
 	<li>Describing and Generating Images</li>
-	<li>Tools - Using @Tools in Spring AI</li>
-	<li>MCP - Server & Client Integration</li>
+	<li>Tools - Programmatic Way</li>
 </ol>
 
 <hr>
