@@ -18,14 +18,17 @@
 	<li>Retrieval Augmented Generation</li>
 	<li>Describing and Generating Images</li>
 	<li>Tools - Programmatic Way</li>
+	<li>Tools - Declarative Way</li>
 </ol>
 
 <hr>
 
 <h3 align="left">⚙️ Prerequisites</h3>
 <p align="justify">
-    These demos have been built using <b>JDK 25</b>, <b>Spring Framework 6</b>, and <b>Spring Boot 3</b>. While it is
-    recommended to have JDK 25 installed, the examples can be adapted to other Java versions with minimal modifications.
+    These demos have been built using <b>JDK 25</b>, <b>Spring Framework 6</b>, and <b>Spring Boot 3</b>. While it is recommended to have JDK 25 installed, the examples can be adapted to other Java versions with minimal modifications.
+</p>
+<p align="justify">
+    The LLM used in these examples is <b>Gemini</b> and <b>Stability AI</b>, but the code can be adjusted to work with other LLMs if needed.
 </p>
 <p align="justify">
     Before diving into Spring REST, ensure you're comfortable with the following concepts:
