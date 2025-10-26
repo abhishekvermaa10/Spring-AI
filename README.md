@@ -19,6 +19,7 @@
 	<li>Describing and Generating Images</li>
 	<li>Tools - Programmatic Way</li>
 	<li>Tools - Declarative Way</li>
+	<li>Creating Model Context Protocol (MCP) Server</li>
 </ol>
 
 <hr>
