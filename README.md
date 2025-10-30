@@ -20,6 +20,7 @@
 	<li>Tools - Programmatic Way</li>
 	<li>Tools - Declarative Way</li>
 	<li>Creating Model Context Protocol (MCP) Server</li>
+	<li>Creating Model Context Protocol (MCP) Client</li>
 </ol>
 
 <hr>
