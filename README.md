@@ -94,7 +94,7 @@ You can learn these topics from my YouTube channel through dedicated playlists.
     </a>
     <a href="https://instagram.com/abhishekvermaa10" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E1306C&logoColor=white&labelColor=&style=for-the-badge"
-            height="35" alt="Instagram />
+            height="35" alt="Instagram" />
     </a>
     <a href=" https://x.com/ytabhishekverma" target="_blank">
         <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge"
@@ -152,4 +152,4 @@ You can learn these topics from my YouTube channel through dedicated playlists.
 
 <hr>
 
-<div align="center">Copyright © 2025 Abhishek Verma - All Rights Reserved</div>
+<div align="center">Copyright © Abhishek Verma - All Rights Reserved</div>
